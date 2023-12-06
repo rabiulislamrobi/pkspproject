@@ -1,0 +1,59 @@
+.col-1 {width: 8.33%;}
+.col-2 {width:16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width:41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width:66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width:91.66%;}
+.col-12 {width: 100%;}
+
+/* footer parts starts here  */
+
+
+.about-part{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+   
+}
+
+.about-part a{
+    margin: 10px;
+}
+/* footers parts end here  */
+/* profile parts starts here  */
+.football-image{
+    position: relative;
+}
+.photo2{
+   margin-left: 1000px;
+    position: absolute;
+}
+.photo4{
+    margin-left: 1000px;
+     position: absolute;
+ }
+
+/* profile parts ends here  */
+/* aboutus-part start here */
+.aboutus-part img{
+    margin-left: 200px;
+    border-radius: 10px;
+
+    
+}
+/* aboutus end parts here  */
+.footer-left{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.footer-right{
+    text-align: center;
+    margin-top: 10px;
+}
+/* be continue  */
